@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 3%;
+
+}
+.username{
+    text-transform: capitalize;
+}
+.table-headers{
+    text-transform: capitalize;
+}
